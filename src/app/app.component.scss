@@ -1,0 +1,15 @@
+.container{
+  min-height: calc(100vh - 1px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: darken($color: #1d1d1d, $amount: 0);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-decoration-color: burlywood;
+}
+.title{
+  text-decoration-color: aqua;
+}
